@@ -3,7 +3,9 @@
 
 ## Description
 
-`Recover` is a C program designed to recover JPEG images from a forensic image of a memory card (`card.raw`). When JPEG files are deleted from a memory card, the data often remains intact until it's overwritten. This program scans the forensic image, identifies JPEG signatures, and extracts the JPEG files, saving them as separate `.jpg` files.
+`Recover` is a C program designed to recover JPEG images from a forensic image of a memory card (`card.raw`).
+Forensic image files are bit-by-bit copies of the original storage device and are often used in digital forensics to preserve the original data without altering it.
+ When JPEG files are deleted from a memory card, the data often remains intact until it's overwritten. This program scans the forensic image, identifies JPEG signatures, and extracts the JPEG files, saving them as separate `.jpg` files.
 
 ## How It Works
 
