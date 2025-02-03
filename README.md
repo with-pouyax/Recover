@@ -1,6 +1,6 @@
 # Recover
 
-[!Recover](https://play-lh.googleusercontent.com/lgt_gLGRBLmmpHy6nuSCiC3cSk17UuDVJ0MOTpT1TNME5ifWpsBxcxdThmYsMUnKu3k)
+![Recover](https://play-lh.googleusercontent.com/lgt_gLGRBLmmpHy6nuSCiC3cSk17UuDVJ0MOTpT1TNME5ifWpsBxcxdThmYsMUnKu3k)
 
 ## Description
 
