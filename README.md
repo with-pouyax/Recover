@@ -1,6 +1,6 @@
 # Recover
 
-[!Recover](https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1707559931%2Fwp-pme%2FHow-to-recover-deleted-files-blog%402x%2FHow-to-recover-deleted-files-blog%402x.%3F_i%3DAA&width=2352&height=1176)
+[!Recover](https://play-lh.googleusercontent.com/lgt_gLGRBLmmpHy6nuSCiC3cSk17UuDVJ0MOTpT1TNME5ifWpsBxcxdThmYsMUnKu3k)
 
 ## Description
 
