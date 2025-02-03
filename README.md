@@ -1,6 +1,7 @@
-
 # Recover
-[!Recover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZYpzN_bO2VpPTfdnoPi0GTVW3YkOTXVKyw&s)
+
+[!Recover](https://pmecdn.protonweb.com/image-transformation/?s=c&image=images%2Ff_auto%2Cq_auto%2Fv1707559931%2Fwp-pme%2FHow-to-recover-deleted-files-blog%402x%2FHow-to-recover-deleted-files-blog%402x.%3F_i%3DAA&width=2352&height=1176)
+
 ## Description
 
 `Recover` is a C program designed to recover JPEG images from a forensic image of a memory card (`card.raw`).
